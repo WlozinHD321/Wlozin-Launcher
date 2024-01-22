@@ -1,2 +1,1 @@
-# Wlozin-Launcher
-Wlozin Launcher
+1.0.0
